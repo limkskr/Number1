@@ -1,4 +1,4 @@
-print("hello world")
+print("hello py")
 print("limkr")
 print("ganada")
 print("123123312")
